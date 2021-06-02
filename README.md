@@ -7,5 +7,7 @@
 3.Patalpinti sukurtas nuorodas į numeruojamą sąrašą.
 4.Patalpinti nuorodas į nenumeruojamą sąrąšą.
 
+Gražus užduoties atvaizdavimas: http://prntscr.com/13qc5cp
+
 Nuorodos: 
 https://www.w3schools.com/html/html_links.asp 

@@ -15,3 +15,5 @@ https://www.w3schools.com/html/html_links.asp
 
 Paskaitai 2021-06-05 užduotis:
 http://prntscr.com/145b8x9
+
+http://prntscr.com/145oxnt
